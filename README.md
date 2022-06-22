@@ -18,3 +18,4 @@ Learn Python 3 The Hard Way Exercises
 1. Ex 13 and Study Drills
 1. Ex 14 and Study Drills
 1. Ex 15 and Study Drlls
+1. Ex 16 and Study Drlls
