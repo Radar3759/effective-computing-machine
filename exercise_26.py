@@ -14,36 +14,37 @@ from sys import argv
 
 ##Second Section
 ##Complete
-script, filename = argv
+# script, filename = argv
 
-txt = open(filename)
+# txt = open(filename)
 
-print(f"Here's your file {filename}:")
-print(txt.read())
+# print(f"Here's your file {filename}:")
+# print(txt.read())
 
-print("Type the filename again:")
-file_again = input("> ")
+# print("Type the filename again:")
+# file_again = input("> ")
 
-txt_again = open(file_again)
+# txt_again = open(file_again)
 
-print(txt_again.read())
+# print(txt_again.read())
 
-# print('Let\'s practice everything.')
-# print("""You\'d need to know \'bout escapes
-#       with \\ that do \n newlines and \t tabs.""")
+##Third Section
+print('Let\'s practice everything.')
+print("""You\'d need to know \'bout escapes
+      with \\ that do \n newlines and \t tabs.""")
 
-# POEM = """
-# \tThe lovely world
-# with logic so firmly planted
-# cannot discern \n the needs of love
-# nor comprehend passion from intuition
-# and requires an explanation
-# \n\t\twhere there is none.
-# """
+POEM = """
+\tThe lovely world
+with logic so firmly planted
+cannot discern \n the needs of love
+nor comprehend passion from intuition
+and requires an explanation
+\n\t\twhere there is none.
+"""
 
-# print("--------------")
-# print(POEM)
-# print("--------------")
+print("--------------")
+print(POEM)
+print("--------------")
 
 
 # FIVE = 10 - 2 + 3 - 6
