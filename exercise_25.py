@@ -2,7 +2,6 @@
 
 sentence =  "All good things come to those who wait."
 words = sentence.split(' ')
-
 def break_words(sentence):
     """This f(X) will break up words for us"""
     words = sentence.split(' ')
