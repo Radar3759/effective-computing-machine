@@ -31,5 +31,4 @@ Learn Python 3 The Hard Way Exercises
 1. Ex 26
 1. No Ex 27
 1. Ex 28
-1. 
-
+1. Ex 29
