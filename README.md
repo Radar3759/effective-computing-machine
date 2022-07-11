@@ -38,4 +38,8 @@ Learn Python 3 The Hard Way Exercises
 - Ex 33
 - Ex 34
 - Ex 35
-- 
+- No Ex 36
+- No Ex 37
+- Ex 38
+- Ex 39
+- Ex 40
